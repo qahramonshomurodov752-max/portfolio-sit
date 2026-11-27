@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "Qahramon Shomurodov portfolio sayti + Telegram aloqa formasi",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
